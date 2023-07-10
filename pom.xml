@@ -18,8 +18,17 @@
 		<java.version>17</java.version>
 	</properties>
 //Qa
+  
 //Dev
+  
 //change by dev*
+
+//Developer
+  
+//QA
+  
+//this is change by Developer
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
